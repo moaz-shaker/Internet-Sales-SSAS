@@ -4,7 +4,7 @@ Your current README file only includes the project title and a few images. To ma
 
 # Internet Sales SSAS
 
-![Internet Sales](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyytPzBpN5fhYKR_7GZdybNdmCnhPle5BlpQ&s)
+![Internet Sales](https://mir-s3-cdn-cf.behance.net/project_modules/source/59c4c059594379.5a2805b23d18b.gif)
 
 ## Overview
 
